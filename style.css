@@ -1,0 +1,16 @@
+body{
+    overflow: hidden;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    background-color: #14161A;
+}
+div{
+
+}
+img{
+    width: 45%;
+    position: absolute;
+    margin-left: -20%;
+    margin-top: 1%;
+}
